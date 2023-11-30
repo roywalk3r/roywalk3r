@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @roywalk3r
 - 👀 I’m interested in everything related to computers
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
