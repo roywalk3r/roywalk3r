@@ -57,10 +57,8 @@ I write poetry inspired by sorrow and love—often spontaneous free verse moment
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roywalk3r&show_icons=true&theme=tokyonight&hide_border=false" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=roywalk3r&theme=tokyonight&hide_border=false" />
+  <img src="https://metrics.lecoq.io/roywalk3r?template=classic&languages=1&streak=1&activity=1&theme=tokyonight" />
 </p>
-
 ---
 
 ## 🧠 Top Languages
