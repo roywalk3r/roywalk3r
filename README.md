@@ -12,7 +12,7 @@
 
 ## What I’m about
 
-I like turning ambitious ideas into working software — from polished interfaces and mobile apps to APIs, automation, AI integrations, and the systems that keep them running.
+I turn ambitious ideas into working software — from polished interfaces and mobile apps to APIs, automation, AI integrations, and the systems that keep them running.
 
 My interests sit at the intersection of:
 
@@ -23,20 +23,17 @@ My interests sit at the intersection of:
 
 ## Currently building
 
-### [APEX — Autonomous Personal EXecutor](https://github.com/roywalk3r/apex)
+I’m working on several private projects involving autonomous execution, browser automation, AI integrations, and business software. Some work stays private because it belongs to clients, companies, or collaborators.
 
-An automation runtime for coordinating browser workflows, AI tools, notifications, documents, and integrations. Built with TypeScript, Playwright, MCP, Express, SQLite/PostgreSQL, and a growing collection of adapters.
-
-## Selected work
+## Selected public work
 
 | Project | What it is | Stack / focus |
 | --- | --- | --- |
-| [Vexli](https://github.com/roywalk3r/vexli-app) | An app project with a dedicated Android release channel | Mobile, product engineering |
-| [Hue](https://github.com/roywalk3r/hue) | A family of web, frontend, and Node projects | Web apps, APIs, UI |
-| [J.R.S.C.](https://github.com/roywalk3r/jrsc) | Intelligent school management system | Full-stack application, automation |
-| [PK Luxury Apartments](https://github.com/roywalk3r/pk-luxury-apartments) | Apartment management software | Business systems, dashboards |
 | [Filament tenancy starter](https://github.com/roywalk3r/laravel-multi-tenancy-starter-kit) | Multi-database tenancy for FilamentPHP | Laravel, PHP, multi-tenancy |
-| [AI warehouse management](https://github.com/roywalk3r/ai_warehouse_management_system) | MCP-integrated warehouse management system | AI, MCP, operations |
+| [Shop Bot](https://github.com/roywalk3r/shop_bot) | A Laravel multi-tenancy e-commerce experiment | Laravel, e-commerce |
+| [React Native Airbnb](https://github.com/roywalk3r/react-native-airbnb) | A movie-streaming home-cinema project | React Native, TMDB, media APIs |
+| [Vexli downloads](https://github.com/roywalk3r/vexli-downloads) | Public Android release downloads | Android, release tooling |
+| [GitReel](https://github.com/roywalk3r/gitreel) | A public project exploring developer tooling | GitHub, automation |
 
 ## Toolbox
 
