@@ -38,6 +38,23 @@ I build web and mobile products, APIs, automation systems, and AI-powered tools.
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase">
 </p>
 
+## Contribution canvas
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./output/github-contribution-grid-snake.svg">
+  <img alt="Animated contribution snake" src="./output/github-contribution-grid-snake.svg">
+</picture>
+
+<details>
+<summary>Open the 3D contribution calendar</summary>
+
+<br>
+
+<img src="./profile-3d-contrib/profile-night-green.svg" alt="3D contribution calendar">
+
+</details>
+
 ## Beyond code
 
 I write poetry too — usually about sorrow, love, and the strange places where emotion and imagination overlap.
