@@ -1,8 +1,10 @@
 <div align="center">
 
-# 👋 Hey, I’m Roy — `@roywalk3r`
+# 👋 Hi, I’m Roy — `@roywalk3r`
 
-### Full-stack engineer building useful things for the web, mobile, and the spaces in between.
+### Full-stack engineer • automation builder • mobile enthusiast
+
+I build web and mobile products, APIs, automation systems, and AI-powered tools. Most of my current work is private, so this profile focuses on how I think and what I like building rather than exposing client or company code.
 
 <a href="https://github.com/roywalk3r"><img src="https://img.shields.io/badge/GitHub-roywalk3r-181717?style=flat-square&logo=github" alt="GitHub"></a>
 <a href="mailto:aj.rory@proton.me"><img src="https://img.shields.io/badge/Email-aj.rory%40proton.me-6D4AFF?style=flat-square&logo=protonmail&logoColor=white" alt="Email"></a>
@@ -10,30 +12,19 @@
 
 </div>
 
-## What I’m about
+## What I build
 
-I turn ambitious ideas into working software — from polished interfaces and mobile apps to APIs, automation, AI integrations, and the systems that keep them running.
+- Full-stack web applications, e-commerce, dashboards, and business systems
+- APIs and backend services with Laravel, NestJS, Node.js, and Python
+- Mobile experiences with React Native, Flutter, and Android
+- Browser automation, autonomous agents, MCP tools, and AI integrations
+- Media and streaming tools, scraping workflows, and developer utilities
 
-My interests sit at the intersection of:
+## My current focus
 
-- **Product engineering:** full-stack applications, e-commerce, dashboards, and multi-tenant systems
-- **Automation & AI:** autonomous agents, browser automation, MCP servers, chatbots, and practical AI tooling
-- **Mobile & media:** React Native, Flutter, Android, streaming workflows, and media APIs
-- **Security-minded development:** exploring how systems work, where they fail, and how to build them more safely
+I’m exploring how software can become more capable without becoming harder to control: useful agents, dependable automation, clear interfaces, and systems that are pleasant to operate.
 
-## Currently building
-
-I’m working on several private projects involving autonomous execution, browser automation, AI integrations, and business software. Some work stays private because it belongs to clients, companies, or collaborators.
-
-## Selected public work
-
-| Project | What it is | Stack / focus |
-| --- | --- | --- |
-| [Filament tenancy starter](https://github.com/roywalk3r/laravel-multi-tenancy-starter-kit) | Multi-database tenancy for FilamentPHP | Laravel, PHP, multi-tenancy |
-| [Shop Bot](https://github.com/roywalk3r/shop_bot) | A Laravel multi-tenancy e-commerce experiment | Laravel, e-commerce |
-| [React Native Airbnb](https://github.com/roywalk3r/react-native-airbnb) | A movie-streaming home-cinema project | React Native, TMDB, media APIs |
-| [Vexli downloads](https://github.com/roywalk3r/vexli-downloads) | Public Android release downloads | Android, release tooling |
-| [GitReel](https://github.com/roywalk3r/gitreel) | A public project exploring developer tooling | GitHub, automation |
+Some of that work is private because it belongs to clients, companies, or collaborators. Public releases will appear in my [repositories](https://github.com/roywalk3r?tab=repositories) when they are ready.
 
 ## Toolbox
 
@@ -51,21 +42,20 @@ I’m working on several private projects involving autonomous execution, browse
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
 </p>
 
-## A few things I believe
+## Beyond code
+
+I write poetry too — usually about sorrow, love, and the strange places where emotion and imagination overlap.
 
 > Build with curiosity. Ship with intention. Keep learning after the first release.
-
-I also write poetry — usually about sorrow, love, and the strange places where emotion and imagination overlap.
 
 ## Let’s connect
 
 If you’re building something interesting in automation, AI, mobile, media, or full-stack product engineering, I’d love to hear about it.
 
 - **Email:** [aj.rory@proton.me](mailto:aj.rory@proton.me)
-- **Everywhere else:** [@aerk_tech on Instagram](https://instagram.com/aerk_tech)
+- **Instagram:** [@aerk_tech](https://instagram.com/aerk_tech)
 
 <div align="center">
 
