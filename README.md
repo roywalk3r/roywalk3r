@@ -68,6 +68,7 @@ I write poetry inspired by sorrow and love—often spontaneous free verse moment
 </p>
 
 ---
+[![Why PHP](https://img.shields.io/badge/Why_PHP-in_2026-7A86E8?style=for-the-badge&labelColor=18181b)](https://whyphp.dev)
 
 ## 🌐 Let's Connect!
 
