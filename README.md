@@ -20,12 +20,6 @@ I build web and mobile products, APIs, automation systems, and AI-powered tools.
 - Browser automation, autonomous agents, MCP tools, and AI integrations
 - Media and streaming tools, scraping workflows, and developer utilities
 
-## My current focus
-
-I’m exploring how software can become more capable without becoming harder to control: useful agents, dependable automation, clear interfaces, and systems that are pleasant to operate.
-
-Some of that work is private because it belongs to clients, companies, or collaborators. Public releases will appear in my [repositories](https://github.com/roywalk3r?tab=repositories) when they are ready.
-
 ## Toolbox
 
 <p>
